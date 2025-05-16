@@ -1,0 +1,16 @@
+The changes for project 2 that I made are as follows:
+
+Project 2 Parts 1 & 2:
+
+    - I changed the general CSS that was used for every page I adapted in Part 1 & Part 2 of the project
+
+Project 2 Part 1:
+
+    - I added images to the "About Us" page
+    - I embedded a video of USPS' instructions on how to mail a package on the refund page
+    - I embedded a Google Form into the "Checkout" page
+
+Project 2 Part 2:
+
+    - I changed the layout of the "Main", "About", "Checkout", and "Refund" pages, so that it has a grid-style
+    layout, and so that it looks different between mobile and desktop versions of the website.
